@@ -17,14 +17,14 @@
 ![Networking](https://img.shields.io/badge/Networking-005f73?style=for-the-badge)
 
 ---
-
+<!---
 ### 📊 Статистика GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vlkhv0x&show_icons=true&theme=github_dark&hide=contribs,prs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlkhv0x&layout=compact&theme=github_dark" />
 </p>
-
+--->
 ---
 
 ### 📬 Связь
