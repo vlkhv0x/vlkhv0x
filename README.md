@@ -32,5 +32,5 @@
 
 ### 📬 Связь
 
-- Telegram: [@vlkhdev](https://t.me/vlkhdev)
+- Telegram: [@vlkhvn](https://t.me/vlkhvn)
 - Email: vlkhvan02@gmail.com
