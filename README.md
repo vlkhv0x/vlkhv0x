@@ -1,36 +1,37 @@
-<h1 align="center">Hey everyone! 👋</h1>
+<div align="center">
 
-<p align="center">
-  🌐 DevOps-инженер с фокусом на автоматизацию, инфраструктуру и CI/CD.<br>
-  💻 Работаю с Linux, Docker, Ansible, сетями и системами развёртывания.
-</p>
+**DevOps Engineer**
+
+Automation • Infrastructure • CI/CD
+
+[![Telegram](https://img.shields.io/badge/Telegram-@vlkhvn-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/vlkhvn)
+[![Email](https://img.shields.io/badge/Email-vlkhvan02@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vlkhvan02@gmail.com)
+
+</div>
+
+---
+
+## Tech Stack
+
+**Infrastructure & Cloud**  
+Linux • Docker • Kubernetes • Networking
+
+**Automation & IaC**  
+Ansible • Terraform • CI/CD Pipelines
+
+**Development**  
+Bash • Python • Git • SQL
 
 ---
 
-### ⚙️ Стек технологий
+## Approach
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-005f73?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+```
+Infrastructure as Code • Automation First • Reliability • Security
+```
 
 ---
-<!---
-### 📊 Статистика GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vlkhv0x&show_icons=true&theme=github_dark&hide=contribs,prs" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlkhv0x&layout=compact&theme=github_dark" />
-</p>
---->
----
-
-### 📬 Связь
-
-- Telegram: [@vlkhvn](https://t.me/vlkhvn)
-- Email: vlkhvan02@gmail.com
+<div align="center">
+  <i>Building reliable infrastructure, automating everything</i>
+</div>
